@@ -1,5 +1,5 @@
 #AngularJS in Action 中文版
-![AngularJS in Action](http://f.picphotos.baidu.com/album/s%3D740%3Bq%3D90/sign=45c2775fc5fdfc03e178e1bce404f6a9/f31fbe096b63f624e65eb8a28144ebf81a4ca314.jpg)
+<img src="http://f.picphotos.baidu.com/album/s%3D740%3Bq%3D90/sign=45c2775fc5fdfc03e178e1bce404f6a9/f31fbe096b63f624e65eb8a28144ebf81a4ca314.jpg">
 > 亚马逊上书评不是很高的一本manning出版的Action系统书，个人觉得导致差评的主要原因在于本书给出的实例是一个完整的整体，而不是以往manning风格的step by step教学方式，从而会影响一些完全对AngularJS没概念的读者无法从最终实例中去按章节拆分。但作者能在短短的100多页的书中将AngularJS的关键基础概念讲的清楚明白而且覆盖到了所有基础点，并刻意的没有去讲一些略复杂却不影响基础使用的高级用法（如`ui-router`、`privoder`、`$resource`），将读者的精力集中在基础使用上，所以此书不失为一本学习AngularJS的好书。
 
 ###目录
