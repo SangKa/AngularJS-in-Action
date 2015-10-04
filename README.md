@@ -62,4 +62,10 @@
     - [ ] [8.4 总结]()
 
 ###译文约定
-  - 本书会将AngularJS中的核心概念名词(如`model`、`view`、`controller`、`service`、`directive`..)和其它的一些技术名词(如`promise`)保持英文原文从而避免一些混淆  
+  - 本书会将AngularJS中的核心概念名词(如`model`、`view`、`controller`、`service`、`directive`..)和其它的一些技术名词(如`promise`)保持英文原文从而避免一些混淆
+  
+###相关资源￼
+  - 第1章案例: [https://github.com/angularjs-in-action/angello-lite](https://github.com/angularjs-in-action/angello-lite)
+  - 最终案例: [https://github.com/angularjs-in-action](https://github.com/angularjs-in-action)
+  
+> ######*此译文版本仅供前端爱好者交流学习使用，不可用于任何商业用途，另由于本人英文水平有限，译文不足之处请见谅*
