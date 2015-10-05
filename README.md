@@ -4,7 +4,7 @@
 
 ###目录
   - [ ] [第1章 | 你好 AngularJS](https://github.com/SangKa/AngularJS-in-Action/tree/master/Chapter-1)
-    - [ ] [1.1 使用AngulraJS的优势]()
+    - [ ] [1.1 使用AngulraJS的优势](https://github.com/SangKa/AngularJS-in-Action/blob/master/Chapter-1/1.1.md)
     - [ ] [1.2 AngularJS大局观]()
     - [ ] [1.3 建立你的第一个AngularJS应用]()
     - [ ] [1.4 总结]()
