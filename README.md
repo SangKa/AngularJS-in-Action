@@ -3,11 +3,11 @@
 > 亚马逊上书评不是很高的一本manning出版的Action系列书，个人觉得导致差评的主要原因在于本书给出的实例是一个完整的整体，而不是以往manning风格的step by step教学方式，从而会影响一些完全对AngularJS没概念的读者无法从最终实例中去按章节拆分。但作者能在短短的100多页的书中将AngularJS的关键基础概念讲的清楚明白而且覆盖到了所有基础点，并刻意的没有去讲一些略复杂却不影响基础使用的高级用法（如`ui-router`、`privoder`、`$resource`），将读者的精力集中在基础使用上，所以此书不失为一本学习AngularJS的好书。
 
 ###目录
-  - [ ] [第1章 | 你好 AngularJS](https://github.com/SangKa/AngularJS-in-Action/tree/master/Chapter-1)
+  - [x] [第1章 | 你好 AngularJS](https://github.com/SangKa/AngularJS-in-Action/tree/master/Chapter-1)
     - [x] [1.1 使用AngulraJS的优势](https://github.com/SangKa/AngularJS-in-Action/blob/master/Chapter-1/1.1.md)
     - [x] [1.2 AngularJS大局观](https://github.com/SangKa/AngularJS-in-Action/blob/master/Chapter-1/1.2.md)
     - [x] [1.3 建立你的第一个AngularJS应用](https://github.com/SangKa/AngularJS-in-Action/blob/master/Chapter-1/1.3.md)
-    - [ ] [1.4 总结]()
+    - [x] [1.4 总结](https://github.com/SangKa/AngularJS-in-Action/blob/master/Chapter-1/1.4.md)
   - [ ] [第2章 | 构建你的AngularJS应用]()
     - [ ] [2.1 你好Angello]()
     - [ ] [2.2 AngularJS应用结构]()
