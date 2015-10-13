@@ -9,7 +9,7 @@
     - [x] [1.3 建立你的第一个AngularJS应用](https://github.com/SangKa/AngularJS-in-Action/blob/master/Chapter-1/1.3.md)
     - [x] [1.4 总结](https://github.com/SangKa/AngularJS-in-Action/blob/master/Chapter-1/1.4.md)
   - [ ] [第2章 | 构建你的AngularJS应用](https://github.com/SangKa/AngularJS-in-Action/tree/master/Chapter-2)
-    - [ ] [2.1 你好Angello]()
+    - [x] [2.1 你好Angello](https://github.com/SangKa/AngularJS-in-Action/blob/master/Chapter-2/2.1.md)
     - [ ] [2.2 AngularJS应用结构]()
     - [ ] [2.3 打造Angello基础]()
     - [ ] [2.4 基础路由和导航]()
