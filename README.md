@@ -1,6 +1,6 @@
 #AngularJS in Action 中文版
 ![AngularJS in Action](https://raw.githubusercontent.com/SangKa/AngularJS-in-Action/master/assets/cover.png)
-> 亚马逊上书评不是很高的一本manning出版的Action系列书，个人觉得导致差评的主要原因在于本书给出的实例是一个完整的整体，而不是以往manning风格的step by step教学方式，从而会影响一些完全对AngularJS没概念的读者无法从最终实例中去按章节拆分。但作者能在短短的100多页的书中将AngularJS的关键基础概念讲的清楚明白而且覆盖到了所有基础点，并刻意的没有去讲一些略复杂却不影响基础使用的高级用法（如`ui-router`、`privoder`、`$resource`），将读者的精力集中在基础使用上，所以此书不失为一本学习AngularJS的好书。
+> 亚马逊上书评不是很高的一本manning出版的Action系列书，个人觉得导致差评的主要原因在于本书给出的实例是一个完整的整体，而不是以往manning风格的step by step教学方式，从而会影响一些完全对AngularJS没概念的读者无法从最终实例中去按章节拆分。但作者能在短短的100多页的书中将AngularJS的关键基础概念讲的清楚明白而且覆盖到了所有基础点，并刻意的没有去讲一些略复杂却不影响基础使用的高级用法（如`ui-router`、`provider`、`$resource`），将读者的精力集中在基础使用上，所以此书不失为一本学习AngularJS的好书。
 
 ###目录
   - [x] [第1章 | 你好 AngularJS](https://github.com/SangKa/AngularJS-in-Action/tree/master/Chapter-1)
@@ -10,7 +10,7 @@
     - [x] [1.4 总结](https://github.com/SangKa/AngularJS-in-Action/blob/master/Chapter-1/1.4.md)
   - [ ] [第2章 | 构建你的AngularJS应用](https://github.com/SangKa/AngularJS-in-Action/tree/master/Chapter-2)
     - [x] [2.1 你好Angello](https://github.com/SangKa/AngularJS-in-Action/blob/master/Chapter-2/2.1.md)
-    - [ ] [2.2 AngularJS应用结构]()
+    - [x] [2.2 AngularJS应用结构](https://github.com/SangKa/AngularJS-in-Action/blob/master/Chapter-2/2.2.md)
     - [ ] [2.3 打造Angello基础]()
     - [ ] [2.4 基础路由和导航]()
     - [ ] [2.5 一些最佳实践]()
